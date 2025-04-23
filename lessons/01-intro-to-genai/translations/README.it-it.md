@@ -48,34 +48,34 @@ Il tuo banco da lavoro, il cuore della tua officina, è un disordine organizzato
 
 _Al centro del banco si trova il torso di un robot, una meraviglia dell’ingegneria che ha richiesto mesi di sforzi. La sua struttura in legno è intricata e ogni giuntura è stata meticolosamente progettata per garantire un movimento fluido._
 
-### A letter, for you?
+### Una lettera, per te?
 
-Suddenly, a knock at the door disrupts your thoughts. Visitors at this hour are rare. Wiping your hands on a rag, you approach the door, curiosity piqued. 
+Improvvisamente, un colpo alla porta interrompe i tuoi pensieri. I visitatori a quest’ora sono rari. Asciugandoti le mani su uno straccio, ti avvicini alla porta, incuriosito.
 
-Opening it, you find no one. Instead, your eyes are drawn to a sealed envelope on the ground. You pick it up and read:
+Aprendola, non trovi nessuno. Invece, i tuoi occhi sono attratti da una busta sigillata a terra. La raccogli e leggi:
 
-_"Dear friend,_
+_"Caro amico,_
 
-_I'm sending you this letter to aid your endeavors with the automaton. It's crucial you continue this work. Enclosed is a key to the library. Meet me there at 3 PM today._
+_ti invio questa lettera per aiutarti nei tuoi sforzi con l’automa. È fondamentale che continui questo lavoro. In allegato c’è la chiave della biblioteca. Incontriamoci lì oggi alle 15:00._
 
-_Yours,_
+_Tuo,_
 
 _Charles Babbage."_
 
-### Off to the library
+### In biblioteca
 
-Charles Babbage, the great mathematician and inventor of the difference engine, wants to meet you. Quickly, you grab your coat and head out the door.
+Charles Babbage, il grande matematico e inventore della macchina differenziale, vuole conoscerti. In fretta, prendi il cappotto ed esci dalla porta.
 
-After a 20-minute walk along the Thames, you finally arrive at the library where you find the door slightly open.
+Dopo una camminata di venti minuti lungo il Tamigi, finalmente arrivi alla biblioteca dove trovi la porta leggermente aperta.
 
-It's dark and gloomy inside, the only light filtering through the grimy windows, casting eerie shadows on the walls.
+L’interno è buio e tetro, l’unica luce filtra dalle finestre sudice e proietta ombre inquietanti sulle pareti.
 
-**You:** "Hello? Mr. Babbage?"
+**Tu:** "Permesso? Signor Babbage?"
 
-As your eyes adjust to the dim light, you notice a figure in the distance, waving at you. You walk towards him, your footsteps echoing on the wooden floor. The figure becomes clearer, and you recognize him from newspaper photos, it's Charles Babbage.
+Quando gli occhi si adattano alla luce fioca, noti una figura in lontananza che ti saluta. Cammini verso di lui, i tuoi passi risuonano sul pavimento di legno. La figura diventa più chiara e la riconosci dalle foto dei giornali: è Charles Babbage.
 
 <div>
-   <img src="./assets/library.png" alt="Dusty Library" width="300">
+   <img src="./assets/library.png" alt="Libreria Polverosa" width="300">
 </div>
 
 ### What's this device?
