@@ -70,85 +70,85 @@ Dopo una camminata di venti minuti lungo il Tamigi, finalmente arrivi alla bibli
 
 L’interno è buio e tetro, l’unica luce filtra dalle finestre sudice e proietta ombre inquietanti sulle pareti.
 
-**Tu:** "Permesso? Signor Babbage?"
+**Tu:** «Permesso? Signor Babbage?»
 
 Quando gli occhi si adattano alla luce fioca, noti una figura in lontananza che ti saluta. Cammini verso di lui, i tuoi passi risuonano sul pavimento di legno. La figura diventa più chiara e la riconosci dalle foto dei giornali: è Charles Babbage.
 
 <div>
-   <img src="./assets/library.png" alt="Libreria Polverosa" width="300">
+   <img src="./assets/library.png" alt="Libreria polverosa" width="300">
 </div>
 
-### What's this device?
+### Che cos’è questo dispositivo?
 
-Just as you step closer, a blinding flash erupts, and he vanishes.
+Nel momento in cui ti avvicini, scoppia un lampo accecante e lui scompare.
 
-Left behind is a small metallic device spinning on the floor. You pick it up, its cool, smooth surface humming softly. It's unlike anything you've ever seen and yet strangely familiar, you feel a sense of power emanating from it.
+Si lascia dietro di sé un piccolo dispositivo metallico che gira sul pavimento. Lo raccogli, la sua superficie liscia e fredda ronza dolcemente. È diverso da qualsiasi cosa tu abbia mai visto eppure stranamente familiare, avverti un senso di potere che emana da esso.
 
-It resembles a tiny beetle, intricately designed, with three buttons: an up arrow, a down arrow, and a glowing red button. From its back, a small antenna extends, pulsing with energy.
+Assomiglia a un piccolo scarabeo, dal design intricato, con tre pulsanti: una freccia verso l’alto, una freccia verso il basso e un pulsante rosso incandescente. Dalla schiena si estende una piccola antenna che pulsa di energia.
 
-Compelled by curiosity, your fingers drift toward the red button. The moment you press it, the world around you shimmers, and colors swirl violently around you.
+Spinto dalla curiosità, dirigi le dita verso il pulsante rosso. Nel momento in cui lo premi, il mondo intorno a te brilla e i colori turbinano violentemente tutto intorno.
 
-Then, blackness, and a sense of falling.
+Poi, il buio e la sensazione di cadere.
 
 <div>
-   <img src="./assets/vortex.png" alt="Time Vortex" width="300">
+   <img src="./assets/vortex.png" alt="Vortice temporale" width="300">
 </div>
 
-### Alexandria 300 BC
+### Alessandria, 300 a.C.
 
-You awaken, disoriented. As your vision clears, an ancient city unfolds before you—bustling, vibrant, and alive.
+Ti svegli disorientato. Quando la vista si schiarisce, un’antica città si dispiega davanti a te: vivace, vibrante e viva.
 
-People in togas move through the streets, their voices blending into a symphony of ancient dialects, air filled with the scent of exotic spices and the distant sound of merchants hawking their wares.
+Persone in toga si muovono per le strade, le loro voci si fondono in una sinfonia di antichi dialetti, l’aria si riempie del profumo di spezie esotiche e del suono lontano dei mercanti che vendono le loro merci.
 
 <div>
-   <img src="./assets/alexandria.png" alt="Alexandria 300 BC" width="300">
+   <img src="./assets/alexandria.png" alt="Alessandria, 300 a.C." width="300">
 </div>
 
-**You:** Surely, I must have hit my head, you think, closing your eyes and opening them again, scene remains unchanged.
+**Tu:** «Sicuramente avrò sbattuto la testa», pensi, chiudendo gli occhi e riaprendoli, ma la scena rimane invariata.
 
-Am I stuck in the past? Do I dare press that button again? Before you can decide, a figure approaches you, waving.
+«Sono forse bloccato nel passato? Avrò il coraggio di premere di nuovo quel pulsante?» Prima che tu possa decidere, una figura ti si avvicina, salutandoti.
 
-### Meeting Dinocrates
+### L’incontro con Dinocrate
 
-An elderly gentleman wearing a toga waves at you from the steps of the grand temple. His white hair and beard catch the sunlight, giving him an almost ethereal glow.
+Un anziano signore in toga ti saluta dai gradini del grande tempio. I suoi capelli e la sua barba bianchi catturano la luce del sole, conferendogli un bagliore quasi etereo.
 
 <div>
-   <img src="./assets/dinocrates.png" alt="Dinocrates wearing a toga" width="300">
+   <img src="./assets/dinocrates.png" alt="Dinocrate che indossa una toga" width="300">
 </div>
 
-**Dinocrates:** "Welcome, traveler," he says warmly. "I am Dinocrates, architect of this great city. Your arrival was foretold."
+**Dinocrate:** «Benvenuto, viaggiatore,» he says warmly. «Sono Dinocrate, l’architetto di questa grande città. Il tuo arrivo è stato predetto.»
 
-**You:** It was? I mean, of course, it was. I'm here to help, I think.
+**Tu:** «Davvero? Voglio dire, di certo lo è stato. Sono qui per aiutare, credo.»
 
-**Dinocrates:** Yes, as I was saying, you've been expected for some time now. We have a task that requires your unique skills.
+**Dinocrate:** «Sì, come dicevo, ti si aspettava da tempo. Abbiamo un compito che richiede le tue abilità uniche.»
 
-**Dinocrates:** "Our ships struggle to navigate the coast—we must build a lighthouse. Do you know anything about them?"
+**Dinocrate:** «Le nostre navi faticano a navigare lungo la costa: dobbiamo costruire un faro. Ne sai qualcosa?»
 
-**You:** "I'm a mechanic. I build automatons. Let me see what I can do."
+**Tu:** «Sono un meccanico. Costruisco automi. Vediamo che cosa posso fare.»
 
-### The "Time Beetle"
+### Lo “Scarabeo del Tempo”
 
-A thought strikes you. Can the device understand me if I speak to it?
+Un pensiero ti assale. «Il dispositivo può capirmi se gli parlo?»
 
-**You:** "Device, can you understand me?"
+**Tu:** «Dispositivo, puoi capirmi?»
 
-**Device:** "Of course. What do you need?"
+**Dispositivo:** «Certo. Di che cosa hai bisogno?»
 
-**You:** "Can you help me build a lighthouse?"
+**Tu:** «Puoi aiutarmi a costruire un faro?»
 
-**Device:** "Certainly. That won’t be a problem."
+**Dispositivo:** «Certamente. Non sarà un problema.»
 
-**You:** "Do you have a name?"
+**Tu:** «Do you have a name?»
 
-**Device:** "I am the Time Beetle. My creator calls me George; he says it's a good name for a beetle."
+**Dispositivo:** «Io sono lo Scarabeo del Tempo. Il mio creatore mi chiama George; dice che è un bel nome per uno scarabeo.»
 
-**You:** You're right, George is a good name, it was my father's name in fact.
+**Tu:** «Hai ragione, George è un bel nome, infatti era il nome di mio padre.»
 
 <div>
-   <img src="./assets/time-beetle.png" alt="Time travel device resembling a metallic beetle" width="300">
+   <img src="./assets/time-beetle.png" alt="Dispositivo per viaggiare nel tempo che somiglia a uno scarabeo metallico" width="300">
 </div>
 
-_Time device, “George” the metallic beetle_
+_Macchina del tempo, “George” lo scarabeo metallico_
 
 > [!NOTE]
 > In 300 BC, Alexandria was a thriving city founded by Alexander the Great in 331 BC. It quickly became one of the greatest cities of the Hellenistic world. Designed by Alexander's chief architect, Dinocrates, it became a major port and cultural hub.
