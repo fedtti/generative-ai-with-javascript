@@ -1,20 +1,20 @@
 # Lezione 1: Introduzione alla IA Generativa e ai LLM per sviluppatori JavaScript
 
-In questo capitolo imparerai:
+In questo capitolo imparerai a:
 
-- a capire le basi della IA Generativa e dei Large Language Model (LLM);
-- a identificare le potenziali applicazioni e limitazioni dei LLM nello sviluppo JavaScript;
-- a esplorare come la IA Generativa può migliorare le esperienze degli utenti nelle applicazioni JavaScript.
+- capire le basi della IA Generativa e dei Large Language Model (LLM);
+- identificare le potenziali applicazioni e limitazioni dei LLM nello sviluppo JavaScript;
+- esplorare come la IA Generativa può migliorare le esperienze degli utenti nelle applicazioni JavaScript.
 
 ## Configurazione
 
-Se non lo hai ancora fatto, configura il tuo ambiente di sviluppo. Ecco come puoi farlo: [Configura il tuo ambiente](/docs/setup/README.md).
+Se non lo hai ancora fatto, configura il tuo ambiente di sviluppo. Ecco come puoi fare: [Configura il tuo ambiente](/docs/setup/README.md).
 
 ## Risorse correlate
 
 [![Guarda un breve video su una Introduzione alla IA Generativa](https://img.youtube.com/vi/vLYtDgs_zx8/0.jpg)](https://www.youtube.com/watch?v=vLYtDgs_zx8&list=PLlrxD0HtieHi5ZpsHULPLxm839IrhmeDk&index=1)
 
-_Questo video ti dà una introduzione alla IA Generativa con JavaScript_
+_Questo video ti offre un’introduzione alla IA Generativa con JavaScript_
 
 💼 Slide: [Introduzione alla IA Generativa](../../videos/slides/00-intro.pptx)
 

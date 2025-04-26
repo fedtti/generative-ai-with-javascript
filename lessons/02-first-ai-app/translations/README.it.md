@@ -1,26 +1,26 @@
-# Lesson 2: Writing your first AI app
+# Lezione 2: Scrivi la tua prima app IA
 
-In this chapter you will learn:
+In questo capitolo imparerai a:
 
-- Set up your development environment.
-- Write a basic app.
-- Understand system prompts.
+- configurare il tuo ambiente di sviluppo;
+- scrivere una app di base;
+- capire i prompt di sistema.
 
-## Setup
+## Configurazione
 
-If you haven't already, set up your development environment. Here's how you can do it: [Setup your environment](/docs/setup/README.md).
+Se non lo hai già fatto, configura il tuo ambiente di sviluppo. Ecco come puoi fare: [Configura il tuo ambiente](/docs/setup/README.md).
 
-## Related resources
+## Risorse correlate
 
-[![Watch a short video about large language models](https://img.youtube.com/vi/GQ_2OjNZ9aA/0.jpg)](https://www.youtube.com/watch?v=GQ_2OjNZ9aA&list=PLlrxD0HtieHi5ZpsHULPLxm839IrhmeDk&index=2)
+[![Guarda un breve video sui Large Language Model](https://img.youtube.com/vi/GQ_2OjNZ9aA/0.jpg)](https://www.youtube.com/watch?v=GQ_2OjNZ9aA&list=PLlrxD0HtieHi5ZpsHULPLxm839IrhmeDk&index=2)
 
-_This video gives you an introduction to AI models called "large language models", LLMs, what they are and how you can use them to integrate AI into your apps._
+_Questo video ti offre un’introduzione ai modelli IA chiamati “Large Language Model” (LLM), che cosa sono e come puoi usarli per integrare la IA nelle tue app._
 
-*🎥 Click on the image above to watch a short video about large language models*
+*🎥 Clicca sull”immagine sopra per guardare un breve video riguardo i Large Language Model*
 
-💼 Slides: [Introduction to large language models, LLMs](../../videos/slides/01-llms.pptx)
+💼 Slide: [Introduzione ai Large Language Model (LLM)](../../videos/slides/01-llms.pptx)
 
-## Narrative: Picture yourself in a boat on a river
+## Narrazione: Picture yourself in a boat on a river
 
 
 > [!NOTE] 
