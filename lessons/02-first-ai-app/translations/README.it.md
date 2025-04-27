@@ -16,26 +16,26 @@ Se non lo hai già fatto, configura il tuo ambiente di sviluppo. Ecco come puoi 
 
 _Questo video ti offre un’introduzione ai modelli IA chiamati “Large Language Model” (LLM), che cosa sono e come puoi usarli per integrare la IA nelle tue app._
 
-*🎥 Clicca sull”immagine sopra per guardare un breve video riguardo i Large Language Model*
+*🎥 Clicca sull’immagine sopra per guardare un breve video riguardo i Large Language Model*
 
 💼 Slide: [Introduzione ai Large Language Model (LLM)](../../videos/slides/01-llms.pptx)
 
-## Narrazione: Picture yourself in a boat on a river
+## Storia: Immaginati in una barca su un fiume
 
 
 > [!NOTE] 
-> _Our story so far: You are a maker of things, a craftsman from 1860s London who has traveled through time using a mysterious device called the Time Beetle. You've journeyed through the annals of history, witnessing the creation of the lighthouse at Alexandria, a marvel of ancient engineering you helped create with a little help from Dinocrates and the Time Beetle._
+> _La nostra storia finora: Sei un costruttore di oggetti, un artigiano della Londra del 1860 che ha viaggiato nel tempo utilizzando un misterioso dispositivo chiamato Scarabeo del Tempo. Hai viaggiato attraverso gli annali della storia, assistendo alla creazione del faro di Alessandria, una meraviglia dell’ingegneria antica che avete contribuito a creare con un piccolo aiuto da parte di Dinocrate e dello Scarabeo del Tempo._
 >
-> See [Lesson 1](../01-intro-to-genai/README.md) if you want to catch up with the story from the beginning and get started with Generative AI. 
+> Guarda la [Lezione 1](../01-intro-to-genai/README.it.md) se vuoi seguire la storia dall’inizio e iniziare a conoscere l’IA Generativa.
 
 > [!NOTE] 
-> While we recommend going through the story (it's fun!), [click here](#interact-with-leonardo) if you'd prefer to jump straight to the technical content.
+> Mentre consigliamo di procedere nella storia (è divertente!), [clicca qui](#interagisci-con-leonardo) se preferisci saltare direttamente al contenuto tecnico.
 
-Together with Dinocrates, you put the finishing touches on the lighthouse at Alexandria. The towering structure gleams in the sunlight, its polished stone reflecting the Mediterranean Sea.
+Insieme a Dinocrate, hai dato gli ultimi ritocchi al faro di Alessandria. L’imponente struttura brilla alla luce del sole, la sua pietra levigata riflette il Mar Mediterraneo.
 
-You look down at the Time Beetle in your hand, its metallic surface cool against your palm. Clenching your fist around it, you whisper, "Take me home." The beetle begins to glow, emitting a soft, warm light and the world around you dissolves into a whirlwind of colors.
+Abbassi lo sguardo sullo Scarabeo del Tempo nella tua mano, la cui superficie metallica è fredda contro il tuo palmo. Stringendo il pugno intorno ad esso, sussurri, «Portami a casa.» Lo scarabeo inizia a brillare, emettendo una soffusa, calda luce e il mondo attorno a te si dissolve in un turbinio di colori.
 
-### A new adventure
+### Una nuova avventura
 
 When you open your eyes, the world has shifted. As you manage to get up, you realize you're in a boat on a river. You look around, in the distance, you see buildings, their outlines blurred by the morning mist.
 

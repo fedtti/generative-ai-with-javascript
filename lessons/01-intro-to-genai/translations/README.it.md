@@ -26,13 +26,13 @@ Inoltre, la IA Generativa si è evoluta in capacità multimodali, permettendoti 
 
 *In poche parole, le interfacce in linguaggio naturale stanno diventando la nuova interfaccia standard per molte app e i tuoi utenti si aspettano di usarle.*
 
-## Narrazione: Un viaggio nel tempo
+## Storia: Un viaggio nel tempo
 
 > [!NOTE]
 > Iniziamo con una panoramica della storia: una storia che collega il passato e il futuro! Procedendo in questo curriculum, ti imbarcherai in un’avventura emozionante, viaggiando indietro nel tempo per collaborare con alcune delle più grandi menti della storia. Insieme, affronterete sfide ed esplorerete come l’IA Generativa può rivoluzionare le tue applicazioni JavaScript._
 
 > [!NOTE]
-> Mentre consigliamo di procedere nella storia (è divertente!), [clicca qui](#interact-with-dinocrates) se preferisci saltare direttamente al contenuto tecnico.
+> Mentre consigliamo di procedere nella storia (è divertente!), [clicca qui](#interagisci-con-dinocrate) se preferisci saltare direttamente al contenuto tecnico.
 
 Il tuo viaggio inizia nella Londra del 1860, dove assumerai il ruolo di un abile meccanico. Attraverso una serie di avvincenti avventure, affinerai le tue abilità in IA e sbloccherai soluzioni che trascendono il tempo.
 
@@ -157,7 +157,7 @@ _Macchina del tempo, “George” lo scarabeo metallico_
 >
 > Sotto il regno tolemaico, che seguì la morte di Alessandro, Alessandria divenne una delle città più prospere e influenti del suo tempo.
 
-## Interazione con Dinocrate
+## Interagisci con Dinocrate
 
 Se vuoi interagire con Dinocrate, esegui la app [Personaggi](/app/README.md). 
 
@@ -319,7 +319,7 @@ Ecco un esempio di “applicazione chatbot” in azione:.»
 > **Lo sapevi?**  
 > [Il 62.5% degli sviluppatori dice di stare usando JavaScript](https://www.statista.com/statistics/793628/worldwide-developer-survey-most-used-languages/) con molti che preferiscono [TypeScript](https://www.typescriptlang.org) per i nuovi progetti.
 
-## Compito – Aiutare Democrate
+## Compito – Aiuta Dinocrate
 
 Per usare un Large Language Model (LLM) per aiutare Dinocrate con il faro di cui abbiamo parlato prima nella nostra storia, useremo qualcosa chiamato prompt, una frase per descrivere ciò che si vuole. È possibile specificare sia le informazioni di cui si ha bisogno sia il modo in cui si desidera che vengano presentate.
 
