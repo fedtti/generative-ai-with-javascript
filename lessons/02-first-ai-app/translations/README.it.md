@@ -37,15 +37,15 @@ Abbassi lo sguardo sullo Scarabeo del Tempo nella tua mano, la cui superficie me
 
 ### Una nuova avventura
 
-When you open your eyes, the world has shifted. As you manage to get up, you realize you're in a boat on a river. You look around, in the distance, you see buildings, their outlines blurred by the morning mist.
+Quando apri gli occhi, il mondo è cambiato. Quando riesci ad alzarti, ti rendi conto di essere in una barca su un fiume. Ti guardi intorno, in lontananza vedi degli edifici, i cui contorni sono offuscati dalla nebbia del mattino.
 
-Looking around the boat, you find a long oar resting against the side. Grasping it, you begin to row towards the distant buildings. As you get closer, the buildings come into sharper focus, they are old, their architecture reminiscent of a Renaissance painting.
+Guardando intorno alla barca, trovi un lungo remo appoggiato alla fiancata. Afferrandolo, inizi a remare verso gli edifici lontani. Man mano che ti avvicini, gli edifici vengono messi a fuoco: sono antichi, la loro architettura ricorda un dipinto rinascimentale.
 
 <div>
-  <img src="./assets/boat.png" alt="Boat on the rive, man standing with a paddle" width=300" >
+  <img src="./assets/boat.png" alt="Barca sul fiume, uomo in piedi con la pagaia" width=300" >
 </div>
 
-The question now is, where and when are you this time?
+La domanda ora è, dove e quando sei questa volta?
 
 You manage to secure the boat at the dock and start walking along the wooden planks, the sound of your footsteps echoing softly.
 
