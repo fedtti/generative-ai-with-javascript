@@ -42,42 +42,42 @@ Quando apri gli occhi, il mondo è cambiato. Quando riesci ad alzarti, ti rendi 
 Guardando intorno alla barca, trovi un lungo remo appoggiato alla fiancata. Afferrandolo, inizi a remare verso gli edifici lontani. Man mano che ti avvicini, gli edifici vengono messi a fuoco: sono antichi, la loro architettura ricorda un dipinto rinascimentale.
 
 <div>
-  <img src="./assets/boat.png" alt="Barca sul fiume, uomo in piedi con la pagaia" width=300" >
+  <img src="./assets/boat.png" alt="Barca sul fiume, uomo in piedi con la pagaia" width="300" >
 </div>
 
 La domanda ora è, dove e quando sei questa volta?
 
-You manage to secure the boat at the dock and start walking along the wooden planks, the sound of your footsteps echoing softly.
+Riesci a fissare la barca al molo e inizi a camminare lungo le assi di legno: il suono dei tuoi passi riecheggia dolcemente.
 
-As you walk, you notice a man with a long beard and a hat, digging through a crate of what looks like mechanical parts. His hands move deftly, sorting through gears and springs with practiced ease.
+Mentre cammini, noti un uomo con una lunga barba e un cappello che scava in una cassa di quelli che sembrano pezzi meccanici. Le sue mani si muovono abilmente, selezionando ingranaggi e molle con una disinvoltura da esperto.
 
 <div >
-  <img src="./assets/leonardo.png" alt="Leonardo Da Vinci standing next to a crate in the harbour" width="300" >
+  <img src="./assets/leonardo.png" alt="Leonardo Da Vinci in piedi accanto a una cassa nel porto" width="300" >
 </div>
 
-### Help me, Leonardo
+### Aiutami, Leonardo
 
-**You:** "Excuse me, sir, where am I?" He looks up at you, confusion evident in his eyes. Realizing you've been speaking in English, you quickly use the device in your hand and ask it to translate.
+**Tu:** «Mi scusi, signore, dove mi trovo?» Alza lo sguardo verso di te, con un’evidente confusione negli occhi. Realizzando di stargli parlando in inglese, usi subito il dispositivo che hai in mano e gli chiedi di tradurre per te.
 
-**Time Beetle:** "Of course, I'll translate into 15th century Italian. 'Dove sono?'" 
+**Scarabeo del Tempo:** «Certamente, lo tradurrò nell’italiano del XV secolo. “Dove sono?”»
 
-**Old man:** The old man replies, "Siete a Firenze, signore. E chi siete voi?" 
+**Uomo anziano:** L’uomo anziano risponde, «Siete a Firenze, signore. E chi siete voi?»
 
-**Time Beetle:** The Time Beetle translates, "He says you're in Florence, and asks who you are." 
+**Scarabeo del Tempo:** Lo Scarabeo del Tempo traduce, «Dice che ti trovi a Firenze e chiede chi sei.»
 
-**You:** "Tell him I'm a maker of things, and I'm looking for a place to work."
+**Tu:** «Digli che sono un artigiano e che sto cercando un lavoro.»
 
-**Old man:** Un artigiano, eh? Avete mai sentito parlare di Leonardo da Vinci? 
+**Uomo anziano:** «Un artigiano, eh? Avete mai sentito parlare di Leonardo da Vinci?»
 
-**Time Beetle:** The Time Beetle translates, "He asks if you've heard of Leonardo da Vinci." 
+**Scarabeo del Tempo:** Lo Scarabeo del Tempo traduce, «Chiede se avete sentito parlare di Leonardo da Vinci.»
 
-**You:** "Of course," you say. "Tell him I have and I would like to meet him." 
+**Tu:** «Certo,» rispondi. «Digli che ne ho sentito parlare e che mi piacerebbe conoscerlo.»
 
-**Old man:** The old man smiles, "Allora, seguitemi, vi porterò da lui."
+**Uomo anziano:** L’uomo anziano sorride, «Allora, seguitemi, vi porterò da lui.»
 
-**You:** You ask, "What did he say?"
+**Tu:** Chiedi, «Che cosa ha detto?»
 
-**Time Beetle:** The Time Beetle responds, "He said he'll take you to Leonardo."
+**Scarabeo del Tempo:** Lo Scarabeo del Tempo risponde, «Dice che ti porterà da Leonardo.»
 
 ### At the workshop
 
